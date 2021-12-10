@@ -1,0 +1,30 @@
+[
+    {
+        "0": "/business/company/founders",
+        "1": "/business/person/company",
+        "2": "/location/administrative_division/country",
+        "3": "/location/country/administrative_divisions",
+        "4": "/location/country/capital",
+        "5": "/location/location/contains",
+        "6": "/location/neighborhood/neighborhood_of",
+        "7": "/people/deceased_person/place_of_death",
+        "8": "/people/person/children",
+        "9": "/people/person/nationality",
+        "10": "/people/person/place_lived",
+        "11": "/people/person/place_of_birth"
+    },
+    {
+        "/business/company/founders": 0,
+        "/business/person/company": 1,
+        "/location/administrative_division/country": 2,
+        "/location/country/administrative_divisions": 3,
+        "/location/country/capital": 4,
+        "/location/location/contains": 5,
+        "/location/neighborhood/neighborhood_of": 6,
+        "/people/deceased_person/place_of_death": 7,
+        "/people/person/children": 8,
+        "/people/person/nationality": 9,
+        "/people/person/place_lived": 10,
+        "/people/person/place_of_birth": 11
+    }
+]
